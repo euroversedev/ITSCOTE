@@ -20,7 +20,7 @@ for j in range(M):
         if array[i][j] == 0:
             dfs(i, j)
             count += 1
-print(count)
+print(count, count, count)
 print(array)
         
 ''' [review]
